@@ -1,0 +1,6 @@
+D:/pjatkClasses/firstYear/secondSemester/c++/PasswordManager/cmake-build-debug/CMakeFiles/PasswordManager.dir
+D:/pjatkClasses/firstYear/secondSemester/c++/PasswordManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/pjatkClasses/firstYear/secondSemester/c++/PasswordManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/pjatkClasses/firstYear/secondSemester/c++/PasswordManager/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+D:/pjatkClasses/firstYear/secondSemester/c++/PasswordManager/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+D:/pjatkClasses/firstYear/secondSemester/c++/PasswordManager/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
